@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.lang.Number;
 
 /**
- * 
+ * WONG WENG YAW
  * CSCU9T4 Java strings and files exercise.
  *
  */
